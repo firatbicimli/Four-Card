@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:ital@1&family=Fira+Sans+Condensed:wght@500;600;900&family=Montserrat:wght@400;500;600&family=Mulish:wght@400;700&family=Nunito:wght@300&family=Poppins:wght@300;500;600;700&family=Tapestry&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+}
+
+body {
+    background: #e7e5e5;
+    height: 100vh;
+}
+
+.container .header {
+    padding: 30px;
+    text-align: center;
+}
+
+.container .header h2:nth-child(1) {
+    font-weight: 100;
+    font-size: 30px;
+    color: #939ec3;
+    padding: 3px;
+}
+
+.container .header h2:nth-child(2) {
+    color: #36436e;
+    font-size: 35px;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+.container .header p {
+    color: #36436e;
+    margin-top: 8px;
+}
+
+.container .box {
+    width: 400px;
+    height: 350px;
+    background: #fff;
+    padding: 30px;
+    border-top: 5px solid green;
+    border-radius: 5px;
+    margin:20px 0 0 835px;
+}
+
+.container .box h2 {
+    color: #36436e;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.container .box p {
+    color: #bdc5dd;
+    font-weight: 400;
+}
+
+
+.container .box-lightblue {
+    width: 400px;
+    height: 350px;
+    background: #fff;
+    padding: 30px;
+    border-top: 5px solid #83bae7;
+    border-radius: 5px;
+    margin:-180px 0 0 400px;
+}
+
+.container .box-lightblue h2 {
+    color: #36436e;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.container .box-lightblue p {
+    color: #bdc5dd;
+    font-weight: 400;
+}
+
+.container .box-yellow {
+    width: 400px;
+    height: 350px;
+    background: #fff;
+    padding: 30px;
+    border-top: 5px solid #e7f52a;
+    border-radius: 5px;
+    margin:-130px 0 0 835px;
+}
+
+.container .box-yellow h2 {
+    color: #36436e;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.container .box-yellow p {
+    color: #bdc5dd;
+    font-weight: 400;
+}
+
+.container .box-red {
+    width: 400px;
+    height: 350px;
+    background: #fff;
+    padding: 30px;
+    border-top: 5px solid #f43123;
+    border-radius: 5px;
+    margin:-563px 0 0 1270px;
+}
+
+.container .box-red h2 {
+    color: #36436e;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.container .box-red p {
+    color: #bdc5dd;
+    font-weight: 400;
+}
+
+
+
+
+
